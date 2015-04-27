@@ -9,3 +9,7 @@ any more, so I decided to just throw this up on my github account.~~
 
 Update: Stephen contacted me with his new information, so go get the new version here: http://www.sdf.org/~sfisher/abtomutt
 
+Compile like:
+
+clang -o abtomutt -framework CoreFoundation -framework AddressBook abtomutt.c
+

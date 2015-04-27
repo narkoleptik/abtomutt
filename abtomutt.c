@@ -49,7 +49,7 @@ main(int argc, char *argv[])
     int numFound;
 	Boolean ret;
 	ABAddressBookRef AB;
-	ABSearchElementRef names[1], element;
+	ABSearchElementRef names[2], element;
 	char *firstNameResult, *lastNameResult, *emailAddrResult;
 	char *companyNameResult;
 
